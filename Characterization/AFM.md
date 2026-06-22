@@ -1,6 +1,6 @@
 Atomic Force Microscopy (AFM) Surface Characterization
 
-This repository contains an Atomic Force Microscopy (AFM) laboratory study focused on nanoscale surface characterization of semiconductor materials. The project investigates the influence of scanning parameters on image quality, surface roughness measurements, and feature resolution.
+This file contains an Atomic Force Microscopy (AFM) laboratory study focused on nanoscale surface characterization of semiconductor materials. The project investigates the influence of scanning parameters on image quality, surface roughness measurements, and feature resolution.
 
 Overview:
 
