@@ -22,6 +22,9 @@ Sample images from the lab:
 
 <img width="811" height="265" alt="Image" src="https://github.com/user-attachments/assets/e949d69a-f207-4e51-a517-f3d82685ec0e" />
 
+
+<img width="827" height="282" alt="Image" src="https://github.com/user-attachments/assets/ed45ac35-3053-4c2f-b2a9-b0247b0d78d0" />
+
 Technologies & Techniques:
 
 1. Atomic Force Microscopy (AFM)
