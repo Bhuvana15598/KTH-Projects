@@ -4,11 +4,12 @@ This project analyzes the impact of MOSFET gate-length scaling on device perform
 
 Objectives:
 
-1. Investigate short-channel effects in scaled MOSFETs.
-2. Analyze threshold voltage roll-off and DIBL.
-3. Study the influence of oxide thickness and supply voltage scaling.
-4. Compare predictive compact-model simulations.
-5. Validate simulations against measured SOI MOSFET data.
+1. Simulating bulk and SOI MOSFETs
+2. Investigate short-channel effects in scaled MOSFETs.
+3. Analyze threshold voltage roll-off and DIBL.
+4. Study the influence of oxide thickness and supply voltage scaling.
+5. Compare predictive compact-model simulations.
+6. Validate simulations against measured SOI MOSFET data.
 
 Sample imgaes from the project:
 
